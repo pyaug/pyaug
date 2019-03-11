@@ -1,4 +1,4 @@
-#PyAug
+# PyAug
 PyAug is a library developed to augment Pandas DataFrames using statistical distributions. Currently, PyAug supports linear, normal, logistic and Laplace statistical distributions. An interactive web-application has been developed using the PyAug framework and is available at [www.pyaug.com](www.pyaug.com).
 <br>
 
